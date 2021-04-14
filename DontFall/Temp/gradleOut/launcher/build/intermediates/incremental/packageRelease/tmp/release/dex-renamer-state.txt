@@ -1,0 +1,4 @@
+#Thu Apr 15 00:54:28 CEST 2021
+base.0=D\:\\Repos\\Unity3D\\MultiplayerRaceMobile\\MultiplayerRaceMobile\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
